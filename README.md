@@ -39,7 +39,9 @@ Here you can see the current structure of the project.
 ├─ 📂 src/            # 🌟 Source Files
 │  ├─ 📂 assets/          # ✒️ Plugin Assets
 │  │  └─ 📂 languages/    # 📦 Language Files
-│  ├─ 📂 de/stylextv/tune/  # ✉️ Source Code
+│  ├─ 📂 de/stylextv/     # ✉️ Source Code
+│  │  └─ 📂 plib/         # ✉️ Library Source Code
+│  │  └─ 📂 tune/         # ✉️ Plugin Source Code
 │  └─ 📄 plugin.yml       # 📌 Plugin-YML
 ├─ 📂 version/        # 📬 Versions (used by the auto-updater)
 └─ 📃 readme.md       # 📖 Read Me!

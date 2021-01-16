@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/StylexTV/GSigns/master/showcase/socials/cover.png">
+  <img src="https://raw.githubusercontent.com/StylexTV/Tune/main/showcase/socials/cover.png">
   <br>
 </h1>
 
